@@ -1,5 +1,5 @@
 # todolist-react
-### Proyecto final para prácticas profesionalizantes
+### Prototipo proyecto final para prácticas profesionalizantes
 
 Este proyecto consiste en una pequeña demostración de las capacidades de react en un proyecto web final
 Concluye lo aprendido en clase dentro del horario de prácticas
